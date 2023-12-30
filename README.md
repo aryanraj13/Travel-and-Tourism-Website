@@ -15,11 +15,9 @@ Welcome to Globe Glider, your go-to platform for exploring the world and plannin
 
 1. **Clone the Repository:**
    ```bash
+   git clone https://github.com/aryanraj13/Travel-and-Tourism-Website.git
    
 Open home.php in Your Server:
-
-bash
-Copy code
 
 Explore and Plan Your Journey:
 Start exploring destinations, planning your itinerary, and booking your next adventure with Globe Glider.
