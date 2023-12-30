@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to Globe Glider, your go-to platform for exploring the world and planning your next adventure. This website, powered by HTML, CSS, JavaScript, Bootstrap, and Razorpay API, is designed to provide a seamless travel experience.
+Welcome to Globe Glider, your go-to platform for exploring the world and planning your next adventure. This website, powered by PHP, HTML, CSS, JavaScript, Bootstrap, and Razorpay API, is designed to provide a seamless travel experience.
 
 ## Features
 
