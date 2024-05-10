@@ -22,7 +22,7 @@ Welcome to Globe Glider, your go-to platform for exploring the world and plannin
 
 - **Responsive Design:** Access Globe Glider effortlessly on any device, ensuring a seamless user experience.
 
-![alt text](https://github.com/aryanraj13/Travel-and-Tourism-Website/blob/main/survey.png?raw=true)
+![alt text](https://github.com/aryanraj13/Travel-and-Tourism-Website/blob/main/survey1.png?raw=true)
 
 - **Customized Tour Packages:** Take advantage of our survey feature to design custom tour packages based on your budget, preferred travel times, and destination preferences.
 
